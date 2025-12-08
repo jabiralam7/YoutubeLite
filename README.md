@@ -34,17 +34,17 @@ Users are responsible for ensuring that their use of this project complies with 
 
 ## Features
 
-#### Lightweight interface
+#### - Lightweight interface
 
-#### Minimal resource usage
+#### - Minimal resource usage
 
-#### No bundled Google assets
+#### - No bundled Google assets
 
-#### Does not modify official applications
+#### - Does not modify official applications
 
-#### Clean and open-source implementation
+#### - Clean and open-source implementation
 
-#### Content Handling
+#### - Content Handling
 
 All videos, metadata, and thumbnails are fetched directly from publicly accessible YouTube endpoints. Nothing is cached or redistributed by this project.
 
