@@ -56,7 +56,7 @@ All contributions must follow open-source best practices and cannot include copy
 
 ## Removal Requests
 
-If you are an intellectual property owner and believe that this project contains material that violates your rights, please submit a formal request. Valid requests will be reviewed and acted upon promptly.
+If you are an intellectual property owner and believe that this project contains material that violates your rights, please submit a formal request at `jabiralam7676@gmail.com`. Valid requests will be reviewed and acted upon promptly.
 
 Credits:
 
